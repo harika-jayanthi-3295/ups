@@ -45,4 +45,5 @@ wiki/
 snap/
 data_files/
 
-*json
+*.json
+*.txt
