@@ -47,3 +47,6 @@ data_files/
 
 *.json
 *.txt
+*.md
+.gitconfig
+.git-credentials
